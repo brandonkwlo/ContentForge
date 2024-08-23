@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Smith",
+      "subject": "Mathematics",
+      "stars": 5,
+      "review": "Excellent teacher, explains complex concepts clearly and patiently."
+    },
+    {
+      "professor": "Prof. Johnson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Engaging lectures, but assignments can be quite demanding."
+    },
+    {
+      "professor": "Dr. Lee",
+      "subject": "Chemistry",
+      "stars": 4,
+      "review": "Challenging course, but Dr. Lee is always available for extra help."
+    },
+    {
+      "professor": "Prof. Garcia",
+      "subject": "Economics",
+      "stars": 3,
+      "review": "Knowledgeable, but sometimes moves too quickly through material."
+    },
+    {
+      "professor": "Dr. Patel",
+      "subject": "Biology",
+      "stars": 5,
+      "review": "Fantastic lab sessions and very well-organized lectures."
+    },
+    {
+      "professor": "Prof. Thompson",
+      "subject": "Psychology",
+      "stars": 4,
+      "review": "Interesting content, though grading can be somewhat subjective."
+    },
+    {
+      "professor": "Dr. Nguyen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor who makes difficult concepts accessible."
+    },
+    {
+      "professor": "Prof. Wilson",
+      "subject": "English Literature",
+      "stars": 3,
+      "review": "Provides good feedback, but assignment instructions can be vague."
+    },
+    {
+      "professor": "Dr. Brown",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Challenging course, but Dr. Brown is always willing to help."
+    },
+    {
+      "professor": "Prof. Davis",
+      "subject": "Sociology",
+      "stars": 4,
+      "review": "Stimulating discussions, though the reading load is heavy."
+    },
+    {
+      "professor": "Dr. Kim",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Inspiring lectures and encourages creative thinking."
+    },
+    {
+      "professor": "Prof. Anderson",
+      "subject": "Political Science",
+      "stars": 3,
+      "review": "Very knowledgeable, but lectures can be dry at times."
+    },
+    {
+      "professor": "Dr. Martinez",
+      "subject": "Spanish",
+      "stars": 4,
+      "review": "Great at encouraging class participation and conversation."
+    },
+    {
+      "professor": "Prof. Taylor",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Challenging material presented in an understandable way."
+    },
+    {
+      "professor": "Dr. Wong",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Fair exams, but could provide more practice problems."
+    },
+    {
+      "professor": "Prof. Miller",
+      "subject": "Business",
+      "stars": 4,
+      "review": "Excellent use of real-world examples and guest speakers."
+    },
+    {
+      "professor": "Dr. Cohen",
+      "subject": "Anthropology",
+      "stars": 3,
+      "review": "Interesting field trips, but lectures can be disorganized."
+    },
+    {
+      "professor": "Prof. Sharma",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Innovative project-based learning approach, very engaging."
+    },
+    {
+      "professor": "Dr. Robinson",
+      "subject": "Geology",
+      "stars": 4,
+      "review": "Passionate about the subject, but grading can be tough."
+    },
+    {
+      "professor": "Prof. Ahmed",
+      "subject": "Communications",
+      "stars": 4,
+      "review": "Excellent at facilitating group discussions and debates."
+    }
+  ]
+}
